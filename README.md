@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Felicien407)
 
-- 📫 How to reach me: **felin407@gmail.com**
+- 📫 How to reach me: **felicien407@gmail.com**
 
 - ⚡ Fun fact: I used to dream of becoming a surgeon — now I use code to save lives in a different way!
 
