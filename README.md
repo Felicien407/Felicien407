@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felicien Niyomwungeri</h1>
 <h3 align="center">A passionate full-stack developer in the making | Focused on Tech for Good</h3>
 
-- 🌱 I’m currently learning **FastAPI, Vue.js, and Next.js**
+- 🌱 I’m currently learning **Next.js, and Firebase**
 
 - 🧠 Exploring **HealthTech**, **EdTech**, and **Co-op systems** to solve real problems in Rwanda and beyond
 
@@ -30,7 +30,7 @@
 ---
 
 ### 📌 Projects I'm Proud Of
-- 🔬 [Medicine Inventory System (FastAPI)](https://github.com/Felicien407) — Track stock, usage, and reorders for health centers
+- 🔬 [Medicine Inventory System (Nect.JS)](https://github.com/Felicien407) — Track stock, usage, and reorders for health centers
 - 🎬 [Movie Website (GreatStack clone)](https://github.com/Felicien407/...) — Explore trending films with TMDB
 - 🍎 [School Kitchen Management System](https://github.com/Felicien407/...) — Help schools plan, budget, and report meals efficiently
 
